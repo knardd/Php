@@ -6,3 +6,4 @@ Proyek ini adalah latihan dasar PHP yang saya buat sebagai bagian dari proses be
 - Variabel dan Tipe Data
 - Pengkondisian
 - Looping
+- Oop
